@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetU1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetU1_2 Pin=U1-2
+Removed Pin From Net: NetName=NetU1_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetU1_1 Pin=Y1-2
+Removed Member From Class: ClassName=Sheet1 Member=Y1
+Change Component Designator: OldDesignator= NewDesignator=3
+Change Component Designator: OldDesignator=C2 NewDesignator=C10
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=IRF540N NewDesignator=1
+Change Component Designator: OldDesignator=R1 NewDesignator=R14
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=SM712 NewDesignator=2
+Added Component: Designator=CRYSTAL1(XTAL_ABS07-32.768KHZ-T)
+Added Pin To Net: NetName=NetU1_1 Pin=CRYSTAL1-1
+Added Pin To Net: NetName=NetU1_2 Pin=CRYSTAL1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-2
+Change Net Name : Old Net Name=NetU1_1 New Net Name=NetCRYSTAL1_1
+Change Net Name : Old Net Name=NetU1_2 New Net Name=NetCRYSTAL1_2
+Added Member To Class: ClassName=Sheet1 Member=Component 2 SM712
+Added Member To Class: ClassName=Sheet1 Member=Component CRYSTAL1 32.768kHZ
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 BSS138
+Added Room: Name=Sheet1

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=CAM_SCL Pin=R12-2
+Added Room: Name=Sheet1

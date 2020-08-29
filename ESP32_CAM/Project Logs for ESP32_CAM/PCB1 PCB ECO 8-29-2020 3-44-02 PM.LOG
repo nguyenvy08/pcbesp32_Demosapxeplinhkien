@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetIC1_2 Pin=Q1-D
+Removed Pin From Net: NetName=NetC9_1 Pin=Q1-G
+Removed Pin From Net: NetName=GND Pin=Q1-S
+Removed Member From Class: ClassName=Sheet1 Member=Q3
+Removed Member From Class: ClassName=Sheet1 Member=SM712
+Change Component Designator: OldDesignator=2 NewDesignator=3
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C1
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R19
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=SM712 NewDesignator=2
+Added Component: Designator=1(D2PACK)
+Added Pin To Net: NetName=NetC9_1 Pin=1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=1-2
+Added Pin To Net: NetName=GND Pin=1-3
+Change Net Name : Old Net Name=Net1_1 New Net Name=Net2_1
+Change Net Name : Old Net Name=Net1_2 New Net Name=Net2_2
+Change Net Name : Old Net Name=NetC9_1 New Net Name=Net1_1
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=Net1_2
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR18_1
+Added Member To Class: ClassName=Sheet1 Member=Component 1 IRF540N
+Added Member To Class: ClassName=Sheet1 Member=Component 3 HLK-220V-12V
